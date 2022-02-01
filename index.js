@@ -39,9 +39,9 @@ let Switcher = false;
     console.log(Array1);
 
     if (JSON.stringify(Array1) == JSON.stringify(Array2)) {
-        console.log('bibi est la meilleure');
+        console.log('egal');
     }else {
-        console.log('bibi tu saoules');
+        console.log('pas egal');
     }
 
 
